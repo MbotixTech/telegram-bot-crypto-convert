@@ -95,7 +95,7 @@ Feel free to open Pull Requests or Issues if you have suggestions!
 
 ## 🌍 License
 
-This project is licensed under the **MIT License**. See `LICENSE` file for details.
+This project is licensed under the [MIT License](./LICENSE) See `LICENSE` file for details.
 
 ---
 
